@@ -2,9 +2,9 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-#define DHTPIN 7
-#define BUTTONPIN 2
-#define POTPIN A5
+#define DHTPIN 2
+#define BUTTONPIN 3
+#define POTPIN A10
 #define DHTTYPE DHT22
 #define menuHoldTime 2000
 
